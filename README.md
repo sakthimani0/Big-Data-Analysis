@@ -25,3 +25,5 @@ We performed filtered analysis by searching for titles containing the word "Love
 Finally, we split the cast column to identify the most frequently appearing actors.
 
 Overall, the project showcased PySpark's ability to handle real-world data tasks like filtering. grouping. joining. and aggregation efficiently. proving its scalability for big data analytics.
+
+OUTPUT: ![Image](https://github.com/user-attachments/assets/95b4a16f-19c0-4c1e-b602-c201b8037756)
